@@ -1,7 +1,7 @@
 # Blender-DLSS
 A simple bat script to build your own DLSS-bundled Blender build
 
-[(Video tutorial)](https://youtu.be/V-XlHF149Qo)
+[Video tutorial](https://youtu.be/V-XlHF149Qo)
 
 # Steps
 1. Download Prerequisites:
